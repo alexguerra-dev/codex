@@ -1,4 +1,4 @@
-(ns template-clojure.core
+(ns codex.core
   (:gen-class))
 
 (comment
